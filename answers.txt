@@ -5,3 +5,7 @@ Answer: We would consider using git for saved version histories and being able t
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Honestly, really any field data science could be applied to. Finance, healthcare and marketing are some good examples
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge combines histories from separate branches via a merge commit while rebase replays your commits on top of another branch.

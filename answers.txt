@@ -9,3 +9,7 @@ Answer: Honestly, really any field data science could be applied to. Finance, he
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge combines histories from separate branches via a merge commit while rebase replays your commits on top of another branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: To get fit and learn a lot from my classes!

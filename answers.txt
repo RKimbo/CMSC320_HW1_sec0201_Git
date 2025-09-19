@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: We would consider using git for saved version histories and being able to undo mistakes that were long ago.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Honestly, really any field data science could be applied to. Finance, healthcare and marketing are some good examples
